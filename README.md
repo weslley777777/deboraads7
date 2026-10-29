@@ -1,0 +1,194 @@
+[index.html](https://github.com/user-attachments/files/34106051/index.html)[Uploading<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Débora Cristina Estética Avançada | Governador Valadares</title>
+<meta name="description" content="Avaliação individual com enfermeira e biomédica em Governador Valadares. Contorno corporal, firmeza, celulite e massoterapia. Agende pelo WhatsApp.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐝</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Great+Vibes&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--cream:#fffbf3;--paper:#fff;--honey:#d9a21b;--gold:#b8862b;--deep:#8a6014;--ink:#3a2a1a;--mute:#6e5d4b;--line:#ecdcb8;--soft:#faf0dc;--wa:#1f8f4d;color-scheme:light;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
+*{box-sizing:border-box}
+body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.7 Inter,system-ui,sans-serif;
+background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='97'%3E%3Cpath d='M28 2l26 15v30L28 62 2 47V17z M28 62v33 M2 47L0 48 M54 47l2 1' fill='none' stroke='%23d9a21b' stroke-opacity='.10'/%3E%3C/svg%3E")}
+h1,h2,h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:600;line-height:1.1;margin:0 0 .5em;color:var(--deep)}
+h1{font-size:clamp(2.3rem,7vw,3.9rem)}h2{font-size:clamp(1.9rem,5vw,2.7rem)}h3{font-size:1.45rem}
+p{margin:0 0 1em}a{color:inherit}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px}
+section{padding:68px 0;position:relative}
+.eyebrow{display:block;color:var(--gold);font-weight:600;letter-spacing:.22em;text-transform:uppercase;font-size:.74rem;margin-bottom:14px}
+.script{font-family:"Great Vibes",cursive;color:var(--gold);font-size:1.7rem;line-height:1.3}
+.orn{display:flex;align-items:center;gap:12px;color:var(--honey);margin:6px auto 22px;max-width:280px}
+.orn::before,.orn::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,transparent,var(--honey))}
+.orn::after{background:linear-gradient(270deg,transparent,var(--honey))}
+.btn{display:inline-block;background:linear-gradient(135deg,#d9a21b,#b8862b);color:#fff;padding:16px 30px;border-radius:999px;font-weight:600;text-decoration:none;letter-spacing:.02em;box-shadow:0 10px 26px rgba(184,134,43,.35);transition:transform .15s}
+.btn:hover{transform:translateY(-2px)}
+.btn.wa{background:var(--wa);box-shadow:0 10px 26px rgba(31,143,77,.3)}
+.btn.line{background:transparent;color:var(--deep);border:1.5px solid var(--gold);box-shadow:none}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:rgba(255,251,243,.96);border-bottom:1px solid var(--line)}
+header .wrap{display:flex;justify-content:space-between;align-items:center;height:64px}
+header img{height:44px;width:auto}
+header .btn{padding:10px 20px;font-size:.86rem;box-shadow:none}
+.hero{text-align:center;padding:30px 0 70px;overflow:hidden}
+.drip{position:absolute;top:0;right:0;width:min(46vw,320px);opacity:.95;pointer-events:none}
+.hero img.logo{width:min(300px,70vw);height:auto;margin:10px auto 6px;display:block}
+.hero h1{max-width:760px;margin:10px auto 14px}
+.hero h1 em{font-style:italic;color:var(--gold)}
+.hero p.lead{max-width:600px;margin:0 auto 26px;color:var(--mute);font-size:1.1rem}
+.cta-row{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.proof{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:28px}
+.proof span{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:7px 16px;font-size:.85rem;font-weight:500}
+.band{background:linear-gradient(135deg,#8a6014,#b8862b);color:#fff}
+.band .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;text-align:center;padding-top:22px;padding-bottom:22px;font-size:.88rem}
+.band b{display:block;font-family:"Cormorant Garamond",serif;font-size:1.45rem;color:#ffe7a6}
+.center{text-align:center;max-width:640px;margin:0 auto 42px}
+.center p{color:var(--mute)}
+.grid{display:grid;gap:18px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.box{background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:28px;position:relative}
+.box .hex{width:48px;height:54px;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);background:linear-gradient(135deg,#f3d68a,#d9a21b);display:grid;place-items:center;font-size:1.3rem;margin-bottom:14px}
+.box p{color:var(--mute);margin:0;font-size:.95rem}
+.box.star{background:linear-gradient(180deg,var(--soft),var(--paper));border-color:var(--honey)}
+.tag{display:inline-block;background:var(--gold);color:#fff;font-size:.68rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:3px 12px;border-radius:999px;margin-bottom:10px}
+.soft{background:var(--soft)}
+.steps{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));counter-reset:s}
+.steps div{background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:26px;counter-increment:s}
+.steps div::before{content:counter(s);display:grid;place-items:center;width:42px;height:46px;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);background:linear-gradient(135deg,#d9a21b,#b8862b);color:#fff;font-weight:700;margin-bottom:12px}
+.steps p{color:var(--mute);margin:0;font-size:.95rem}
+.about{display:grid;gap:40px;grid-template-columns:.8fr 1.2fr;align-items:center}
+.frame{aspect-ratio:4/5;border-radius:200px 200px 24px 24px;border:2px solid var(--honey);background:linear-gradient(160deg,#fff6dc,#f3d68a);display:grid;place-items:center;padding:30px}
+.frame img{width:100%;height:auto}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.badges span{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:.82rem;font-weight:500}
+.note{background:var(--paper);border:1.5px solid var(--honey);border-radius:24px;padding:30px;display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:center;max-width:820px;margin:0 auto}
+.note .hex{width:64px;height:72px;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);background:linear-gradient(135deg,#d9a21b,#b8862b);display:grid;place-items:center;font-size:1.8rem}
+.note h3{margin-bottom:.3em}.note p{margin:0;color:var(--mute)}
+details{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 22px;margin-bottom:10px}
+summary{cursor:pointer;font-weight:600}
+details p{margin:10px 0 0;color:var(--mute);font-size:.95rem}
+.final{background:linear-gradient(160deg,#3a2a1a,#5a3f1a);color:#fbf1de;text-align:center}
+.final h2{color:#ffe7a6}.final .eyebrow{color:#f3d68a}
+.final p{color:#e6d6bb;max-width:560px;margin:0 auto 26px}
+.info{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-top:40px;text-align:left}
+.info div{background:rgba(255,255,255,.07);border:1px solid rgba(243,214,138,.25);border-radius:18px;padding:18px;font-size:.92rem}
+.info b{display:block;color:#f3d68a;margin-bottom:4px}
+footer{padding:40px 0 110px;font-size:.8rem;color:var(--mute);text-align:center}
+footer img{height:54px;margin-bottom:10px}
+footer a{color:var(--deep)}
+.legal{border-top:1px solid var(--line);padding-top:20px;margin-top:20px;text-align:left}
+.float{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:30;background:var(--wa);color:#fff;border-radius:999px;padding:14px 22px;font-weight:600;text-decoration:none;box-shadow:0 10px 26px rgba(0,0,0,.3)}
+.policy{display:none;padding:48px 0;background:var(--paper)}
+.policy:target{display:block}
+@media(max-width:780px){.about{grid-template-columns:1fr}.frame{max-width:260px;margin:0 auto}.band .wrap{grid-template-columns:1fr 1fr}.note{grid-template-columns:1fr;text-align:center}.note .hex{margin:0 auto}section{padding:50px 0}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><a href="#topo"><img src="assets/logo.png" alt="Débora Cristina Estética Avançada"></a><a class="btn" href="#contato">Agendar avaliação</a></div></header>
+
+<main id="topo">
+<section class="hero">
+<svg class="drip" viewBox="0 0 320 200" aria-hidden="true"><defs><linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3c24a"/><stop offset="1" stop-color="#b8862b"/></linearGradient></defs><path d="M320 0V30c-10 0-14 14-14 40 0 22-8 22-12 0-3-20-8-28-18-28-16 0-12 50-20 60-6 8-12 0-14-20-3-26-10-42-24-42-18 0-8 60-20 74-10 8-14-6-16-30-2-26-10-44-26-44-12 0-8 20-14 30C140 62 130 40 110 40 80 40 60 20 40 0z" fill="url(#h)" opacity=".9"/></svg>
+<div class="wrap">
+<img class="logo" src="assets/logo.png" alt="Débora Cristina Estética Avançada">
+<span class="eyebrow">Enfermeira &amp; Biomédica · Governador Valadares, MG</span>
+<h1>Cuidado profissional para o seu corpo, com <em>segurança e naturalidade.</em></h1>
+<p class="lead">Na avaliação individual, ouvimos o que você deseja e definimos, de forma personalizada, o protocolo mais adequado aos seus objetivos e necessidades.</p>
+<div class="cta-row"><a class="btn wa" data-cta href="https://wa.me/5533999441268?text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o.">💬 Agendar minha avaliação</a><a class="btn line" href="#tratamentos">Conhecer os protocolos</a></div>
+<div class="proof"><span>🎓 Profissional de saúde</span><span>🍯 Protocolos personalizados</span><span>🕐 Atendimento com hora marcada</span></div>
+</div>
+</section>
+
+<div class="band"><div class="wrap">
+<div><b>Individual</b>plano sob medida</div><div><b>Natural</b>foco em harmonia</div><div><b>Segurança</b>critério técnico</div><div><b>Acolhimento</b>do 1º contato ao retorno</div>
+</div></div>
+
+<section id="para-voce"><div class="wrap">
+<div class="center"><span class="eyebrow">Para você</span><h2>Seu cuidado começa por uma boa conversa</h2><div class="orn">♡</div><p>Cada pessoa é única. Por isso nenhum protocolo é definido antes de conhecer você.</p></div>
+<div class="grid">
+<div class="box"><div class="hex">💬</div><h3>Escuta atenta</h3><p>Entendemos seus objetivos, sua rotina e suas expectativas antes de qualquer indicação.</p></div>
+<div class="box"><div class="hex">🛡️</div><h3>Segurança em primeiro lugar</h3><p>Atendimento conduzido por profissional de saúde, com avaliação prévia e orientações claras.</p></div>
+<div class="box"><div class="hex">🌿</div><h3>Resultado harmônico</h3><p>Planejamento pensado para equilíbrio das formas, respeitando a sua individualidade.</p></div>
+</div></div></section>
+
+<section id="tratamentos" class="soft"><div class="wrap">
+<div class="center"><span class="eyebrow">Protocolos disponíveis</span><h2>Cuidados para o seu corpo e bem-estar</h2><div class="orn">♡</div><p>Os protocolos são definidos de forma personalizada durante a avaliação.</p></div>
+<div class="grid">
+<div class="box star"><span class="tag">Assinatura da casa</span><h3>Harmonização de glúteos</h3><p>Remodelagem e harmonização da região glútea, com planejamento individual e acompanhamento.</p></div>
+<div class="box"><div class="hex">✨</div><h3>Contorno corporal</h3><p>Remodelagem e definição do contorno do corpo, conforme a sua avaliação.</p></div>
+<div class="box"><div class="hex">🌸</div><h3>Firmeza e flacidez</h3><p>Protocolos voltados à firmeza da pele e ao cuidado com a flacidez corporal.</p></div>
+<div class="box"><div class="hex">🍃</div><h3>Celulite</h3><p>Cuidados para melhora da textura da pele e do aspecto da celulite.</p></div>
+<div class="box"><div class="hex">🧬</div><h3>Estímulo de colágeno</h3><p>Tecnologias e ativos que estimulam o colágeno, indicados após avaliação.</p></div>
+<div class="box"><div class="hex">🪷</div><h3>Massoterapia</h3><p>Massagem relaxante, pedras quentes, aromaterapia, drenagem linfática e massagem completa.</p></div>
+</div>
+<p style="text-align:center;margin-top:34px"><a class="btn wa" data-cta href="https://wa.me/5533999441268?text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o.">💬 Agendar avaliação pelo WhatsApp</a></p>
+</div></section>
+
+<section id="como-funciona"><div class="wrap">
+<div class="center"><span class="eyebrow">Como funciona</span><h2>Simples e transparente</h2><div class="orn">♡</div></div>
+<div class="steps">
+<div><h3>Chame no WhatsApp</h3><p>Conte o que você busca e escolha o melhor horário.</p></div>
+<div><h3>Avaliação individual</h3><p>Análise presencial e conversa sobre objetivos e necessidades.</p></div>
+<div><h3>Plano personalizado</h3><p>Indicação do protocolo, etapas e cuidados necessários.</p></div>
+<div><h3>Acompanhamento</h3><p>Orientações e retornos para você se sentir segura.</p></div>
+</div>
+<div class="note" style="margin-top:36px"><div class="hex">📋</div><div><h3>Tem exames recentes? Envie antes da consulta.</h3><p>Se tiver exames laboratoriais dos últimos 6 meses, envie antes da consulta para prepararmos um atendimento personalizado. Se não tiver, não se preocupe: a avaliação acontece normalmente.</p></div></div>
+</div></section>
+
+<section class="soft" id="sobre"><div class="wrap about">
+<div class="frame"><img src="assets/logo.png" alt="Débora Cristina"></div>
+<div>
+<span class="eyebrow">Sobre a profissional</span>
+<h2>Técnica e cuidado humano, juntos.</h2>
+<p>Débora Cristina é enfermeira e biomédica, com atuação em estética avançada e harmonização corporal. Une a formação em saúde à sensibilidade estética para conduzir cada atendimento com critério, respeito e naturalidade.</p>
+<p class="script">Cuidar de você é investir na sua melhor versão todos os dias.</p>
+<div class="badges"><span>Enfermagem · COREN [inserir nº]</span><span>Biomedicina · CRBM [inserir nº]</span></div>
+</div></div></section>
+
+<section id="duvidas"><div class="wrap" style="max-width:760px">
+<div class="center"><span class="eyebrow">Dúvidas frequentes</span><h2>Antes de agendar</h2></div>
+<details><summary>Preciso saber qual tratamento quero?</summary><p>Não. Na avaliação você apresenta seu objetivo e a profissional orienta quais opções são adequadas ao seu caso.</p></details>
+<details><summary>Quantas sessões serão necessárias?</summary><p>Depende de cada pessoa. O plano, o número de sessões e os intervalos são definidos após a avaliação individual.</p></details>
+<details><summary>Os resultados são iguais para todas?</summary><p>Não. Os resultados variam de pessoa para pessoa, conforme características individuais, adesão às orientações e hábitos de vida.</p></details>
+<details><summary>Como agendo?</summary><p>Pelo WhatsApp (33) 99944-1268. O atendimento é sempre com hora marcada.</p></details>
+<details><summary>Onde fica o atendimento?</summary><p>Rua Martim de Souza, 412 · Morada do Vale · Governador Valadares/MG.</p></details>
+</div></section>
+
+<section class="final" id="contato"><div class="wrap">
+<span class="eyebrow">Agende seu momento de cuidado</span>
+<h2>Vamos conversar sobre o que é ideal para você?</h2>
+<p>Chame no WhatsApp, tire suas dúvidas e escolha o melhor horário. A agenda é limitada e o atendimento é com hora marcada.</p>
+<a class="btn wa" data-cta href="https://wa.me/5533999441268?text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o.">💬 Chamar no WhatsApp</a>
+<div class="info">
+<div><b>📍 Endereço</b>Rua Martim de Souza, 412<br>Morada do Vale · Gov. Valadares/MG</div>
+<div><b>🕐 Horários</b>Seg a sex · 9h às 18h<br>Sábado · 9h às 13h</div>
+<div><b>📱 Contato</b>(33) 99944-1268<br>@dradeboracristinaesteta<br>decaenf80@gmail.com</div>
+</div></div></section>
+
+<section class="policy" id="privacidade"><div class="wrap" style="max-width:760px">
+<h2>Política de Privacidade</h2>
+<p>Coletamos apenas os dados que você fornece voluntariamente ao entrar em contato (como nome e telefone), para responder sua solicitação e agendar atendimento.</p>
+<h3>Cookies e anúncios</h3>
+<p>Podemos usar cookies e tecnologias como Google Ads e Meta Pixel para medir o desempenho do site e exibir anúncios relevantes. Você pode gerenciar cookies no seu navegador.</p>
+<h3>Seus direitos (LGPD)</h3>
+<p>Você pode solicitar acesso, correção ou exclusão dos seus dados pelo WhatsApp (33) 99944-1268. Não vendemos seus dados a terceiros.</p>
+<p><a href="#topo">← Voltar ao site</a></p>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+<img src="assets/logo.png" alt="Débora Cristina Estética Avançada"><br>
+Rua Martim de Souza, 412 · Morada do Vale · Governador Valadares/MG · <a href="#privacidade">Política de Privacidade</a> · <a href="https://www.instagram.com/dradeboracristinaesteta/">Instagram</a>
+<div class="legal">
+<p><b>Aviso importante:</b> os procedimentos estéticos são indicados após avaliação individual por profissional habilitado. Os resultados variam de pessoa para pessoa e não há garantia de resultado específico. Este site tem caráter informativo e não substitui consulta ou orientação médica.</p>
+<p>Responsável técnica: Débora Cristina · COREN [inserir nº] · CRBM [inserir nº]<br>© 2026 Débora Cristina Estética Avançada. Todos os direitos reservados.</p>
+</div></div></footer>
+
+<a class="float" data-cta href="https://wa.me/5533999441268?text=Ol%C3%A1%2C%20D%C3%A9bora%21%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o.">💬 WhatsApp</a>
+<script>document.querySelectorAll('[data-cta]').forEach(function(a){a.addEventListener('click',function(){/* gtag('event','conversion') / fbq('track','Lead') */})});</script>
+</body>
+</html>
+ index.html…]()
+
+
